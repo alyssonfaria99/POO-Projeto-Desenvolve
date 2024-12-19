@@ -1,0 +1,5 @@
+O paradigma de programação mais adequado é o Paradigma de Orientação a Objetos, pois esse paradigma permite
+a criação de estruturas diferentes para cada tipo de entidade do projeto através das classes. O POO também
+facilita a interação entre as diferentes classes, o que é importante para o projeto. Usando os conceitos de
+herança e polimorfismo, é possível reutilizar boa parte de código e expandir o projeto de maneira eficiente.
+A eficiência e segurança do sistema também é favorecida pelo POO ao utilizar conceitos de encapsulamento e abstração.
